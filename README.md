@@ -26,7 +26,7 @@ Note: Tested with Python 3.11+
 ## 🛠 Installation
 1. Clone the repository
  
-git clone https://github.com/yourusername/telegram-pdf-bot.git
+git clone  https://github.com/OfficialMindAI/pdf-merger-bot
 cd telegram-pdf-bot
 ## 2. Create a virtual environment (optional but recommended)
  
