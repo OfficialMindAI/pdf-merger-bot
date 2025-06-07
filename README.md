@@ -95,3 +95,8 @@ This project is open source and available under the MIT License.
 ## 🙋‍♂️ Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
+
+## Support
+For any question or bugs contact us via mindai.canny.io or ask on one of our social media channel from https://officialmindai.com/community
+
+MindAI's official website is https://officialmindai.com/, make sure to check the spelling is right to not get on unofficial and dangerous websites.
